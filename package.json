@@ -1,0 +1,29 @@
+{
+  "name": "xlsx_parser",
+  "version": "1.0.0",
+  "description": "Tools that allow/help the transformation of big XLSX files to SQL",
+  "main": "read_xlsx_to_json_objects.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhm-msd/xlsx_parser.git"
+  },
+  "keywords": [
+    "xlsx",
+    "xlsx_parser",
+    "parser",
+    "read_excel",
+    "excel"
+  ],
+  "author": "dhm-msd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhm-msd/xlsx_parser/issues"
+  },
+  "homepage": "https://github.com/dhm-msd/xlsx_parser#readme",
+  "dependencies": {
+    "xlsx": "^0.11.2"
+  }
+}
